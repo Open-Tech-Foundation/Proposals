@@ -3,7 +3,7 @@
 **Status:** Draft  
 **Category:** Human-Computer Interaction / Keyboard Layout  
 **Created:** 2026-06-01  
-**Author:** Community Proposal  
+**Author:** Thanga Ganapathy  
 
 ---
 
@@ -330,4 +330,3 @@ The standard PC keyboard contains legacy keys whose original functions are no lo
 Repurposing them as Mute and Play/Pause provides practical daily value while preserving the existing keyboard shape, key count, and layout familiarity.
 
 This proposal is intentionally minimal. It does not ask manufacturers to redesign the keyboard. It asks them to make two existing keys more useful by default.
-
