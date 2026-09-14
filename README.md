@@ -4,9 +4,10 @@ A collection of practical technology and design proposals intended to improve ev
 
 ## Proposals
 
-| ID | Title | Status |
-|---:|-------|--------|
-| 0001 | [Modernizing the Standard PC Keyboard Utility Cluster](proposals/0001-standard-keyboard-media-keys/README.md) | Draft |
+| ID | Type | Title | Status |
+|---:|------|-------|--------|
+| 0001 | Hardware | [Modernizing the Standard PC Keyboard Utility Cluster](proposals/Hardware/0001-Modern-Media-and-Communication-Controls-for-Standard-PC-Keyboards/README.md) | Draft |
+| 0002 | Software | [Fair Domain Name Registration and Transfer Policy](proposals/Software/0002-Fair-Domain-Name-Registration-and-Transfer-Policy/README.md) | Draft |
 
 ## Purpose
 
